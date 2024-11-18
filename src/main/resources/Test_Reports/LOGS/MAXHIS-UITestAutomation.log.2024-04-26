@@ -1,0 +1,578 @@
+2024-04-26 11:20:02 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 11:20:14 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 11:20:14 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 11:20:28 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 11:20:30 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 11:20:31 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 11:21:04 INFO  BaseTest:49 - ---INFO--- ---ERROR--- ---FAIL---Exception occured while validating.Exception occurred in element:logoutBtcIconClicking wait.no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='button' and @id='mantine-khjcnvvki-target']"}
+  (Session info: chrome=124.0.6367.61)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [35b1f786c8f93f44fd73b51f1ae7660d, findElement {using=xpath, value=//button[@type='button' and @id='mantine-khjcnvvki-target']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.61, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53131}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53131/devtoo..., se:cdpVersion: 124.0.6367.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 35b1f786c8f93f44fd73b51f1ae7660d - Failed.
+2024-04-26 11:21:04 INFO  BaseTest:49 - ---INFO--- ---FAIL--- ---FAIL---Exception occured while validating.Exception occurred in element:logoutBtcIconClicking wait.no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='button' and @id='mantine-khjcnvvki-target']"}
+  (Session info: chrome=124.0.6367.61)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [35b1f786c8f93f44fd73b51f1ae7660d, findElement {using=xpath, value=//button[@type='button' and @id='mantine-khjcnvvki-target']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.61, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53131}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53131/devtoo..., se:cdpVersion: 124.0.6367.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 35b1f786c8f93f44fd73b51f1ae7660d - Failed.
+2024-04-26 11:22:48 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 11:22:51 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 11:22:51 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 11:22:59 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 11:23:01 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 11:23:02 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 11:23:35 INFO  BaseTest:49 - ---INFO--- ---ERROR--- ---FAIL---Exception occured while validating.Exception occurred in element:logoutBtcIconClicking wait.no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='button' and @id='mantine-khjcnvvki-target']"}
+  (Session info: chrome=124.0.6367.61)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1159a5df613a0e9e18706f905143a66f, findElement {using=xpath, value=//button[@type='button' and @id='mantine-khjcnvvki-target']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.61, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53335}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53335/devtoo..., se:cdpVersion: 124.0.6367.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1159a5df613a0e9e18706f905143a66f - Failed.
+2024-04-26 11:23:35 INFO  BaseTest:49 - ---INFO--- ---FAIL--- ---FAIL---Exception occured while validating.Exception occurred in element:logoutBtcIconClicking wait.no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='button' and @id='mantine-khjcnvvki-target']"}
+  (Session info: chrome=124.0.6367.61)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1159a5df613a0e9e18706f905143a66f, findElement {using=xpath, value=//button[@type='button' and @id='mantine-khjcnvvki-target']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.61, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53335}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53335/devtoo..., se:cdpVersion: 124.0.6367.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1159a5df613a0e9e18706f905143a66f - Failed.
+2024-04-26 11:25:23 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 11:25:26 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 11:25:26 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 11:25:37 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 11:25:39 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 11:25:40 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 11:25:44 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:logoutBtcIconClicking.
+2024-04-26 11:25:50 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Logout button
+2024-04-26 11:25:50 INFO  BaseTest:49 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:raiseNOCRequest -----><b>
+2024-04-26 11:25:50 INFO  BaseTest:49 - ---INFO--- ---INFO---Test Case : raiseNOCRequest finished
+2024-04-26 11:35:49 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 11:35:52 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 11:35:52 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 11:36:02 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 11:36:03 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 11:36:04 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 11:36:05 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Enter Projectname Searchfeild
+2024-04-26 11:36:07 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:TestPerform 2 on element:Enter Projectname Searchfeild
+2024-04-26 11:36:16 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:logoutBtcIconClicking.
+2024-04-26 11:36:22 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Logout button
+2024-04-26 11:36:22 INFO  BaseTest:49 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:raiseNOCRequest -----><b>
+2024-04-26 11:36:22 INFO  BaseTest:49 - ---INFO--- ---INFO---Test Case : raiseNOCRequest finished
+2024-04-26 11:36:41 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 11:36:43 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 11:36:43 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 11:36:51 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 11:36:52 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 11:36:53 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 11:36:55 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Enter Projectname Searchfeild
+2024-04-26 11:36:56 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:TestPerform 2 on element:Enter Projectname Searchfeild
+2024-04-26 11:37:05 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:logoutBtcIconClicking.
+2024-04-26 11:37:11 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Logout button
+2024-04-26 11:37:11 INFO  BaseTest:49 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:raiseNOCRequest -----><b>
+2024-04-26 11:37:11 INFO  BaseTest:49 - ---INFO--- ---INFO---Test Case : raiseNOCRequest finished
+2024-04-26 11:38:12 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 11:38:15 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 11:38:15 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 11:38:23 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 11:38:24 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 11:38:25 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 11:38:27 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Enter Projectname Searchfeild
+2024-04-26 11:38:28 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:TestPerform 2 on element:Enter Projectname Searchfeild
+2024-04-26 11:38:37 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:logoutBtcIconClicking.
+2024-04-26 11:38:43 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Logout button
+2024-04-26 11:38:43 INFO  BaseTest:49 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:raiseNOCRequest -----><b>
+2024-04-26 11:38:43 INFO  BaseTest:49 - ---INFO--- ---INFO---Test Case : raiseNOCRequest finished
+2024-04-26 12:15:52 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 12:15:55 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 12:15:55 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 12:16:04 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 12:16:05 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 12:16:06 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 12:16:07 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Enter Projectname Searchfeild
+2024-04-26 12:16:09 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:TestPerform 2 on element:Enter Projectname Searchfeild
+2024-04-26 12:17:16 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 12:17:19 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 12:17:19 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 12:17:27 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 12:17:29 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 12:17:30 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 12:17:31 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Enter Projectname Searchfeild
+2024-04-26 12:17:32 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:TestPerform 2 on element:Enter Projectname Searchfeild
+2024-04-26 12:24:41 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 12:25:23 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 12:25:26 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 12:25:26 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 12:25:34 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 12:25:36 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 12:25:37 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 12:25:38 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Enter Projectname Searchfeild
+2024-04-26 12:25:39 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:TestPerform 2 on element:Enter Projectname Searchfeild
+2024-04-26 12:28:28 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 12:28:32 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 12:28:32 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 12:28:40 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 12:28:41 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 12:28:42 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 12:28:43 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Enter Projectname Searchfeild
+2024-04-26 12:28:45 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:TestPerform 2 on element:Enter Projectname Searchfeild
+2024-04-26 12:28:51 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Clickon viewButton
+2024-04-26 12:28:53 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:ClickOn requsetnocButton
+2024-04-26 12:28:54 INFO  BaseTest:49 - ---INFO--- ---ERROR--- ---FAIL---Exception occured while validating.Failed while inputting text:Plot --478 on element:Enter Unit number.Exceptioninvalid element state
+  (Session info: chrome=124.0.6367.78)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a59373c666af1cc6b22d47079a8db27c, clearElement {id=f.AA45A4BF5D9799A69AD64F9E96A063E8.d.4014B9AF4ED2DDB415D4122C2618E810.e.123}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.78, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61564}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61564/devtoo..., se:cdpVersion: 124.0.6367.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (a59373c666af1cc6b22d47079a8db27c)] -> xpath: //input[@placeholder='Select Unit No.']//following::*[local-name()='svg']]
+Session ID: a59373c666af1cc6b22d47079a8db27c - Failed.
+2024-04-26 12:28:54 INFO  BaseTest:49 - ---INFO--- ---FAIL--- ---FAIL---Exception occured while validating.Failed while inputting text:Plot --478 on element:Enter Unit number.Exceptioninvalid element state
+  (Session info: chrome=124.0.6367.78)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a59373c666af1cc6b22d47079a8db27c, clearElement {id=f.AA45A4BF5D9799A69AD64F9E96A063E8.d.4014B9AF4ED2DDB415D4122C2618E810.e.123}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.78, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61564}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61564/devtoo..., se:cdpVersion: 124.0.6367.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (a59373c666af1cc6b22d47079a8db27c)] -> xpath: //input[@placeholder='Select Unit No.']//following::*[local-name()='svg']]
+Session ID: a59373c666af1cc6b22d47079a8db27c - Failed.
+2024-04-26 12:33:16 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 12:33:19 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 12:33:19 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 12:33:26 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 12:33:27 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 12:33:28 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 12:33:29 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Enter Projectname Searchfeild
+2024-04-26 12:33:31 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:TestPerform 2 on element:Enter Projectname Searchfeild
+2024-04-26 12:33:37 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Clickon viewButton
+2024-04-26 12:33:38 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:ClickOn requsetnocButton
+2024-04-26 12:33:40 INFO  BaseTest:49 - ---INFO--- ---ERROR--- ---FAIL---Exception occured while validating.Failed while inputting text:Plot --478 on element:Enter Unit number.Exceptioninvalid element state
+  (Session info: chrome=124.0.6367.78)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [93468d0e9d495f61bf16022f0830bbf7, clearElement {id=f.7BC096DB842A011D05AC14B6F9B724F0.d.A105DAEA48B0A3E831D8ADC7EA4BBD5F.e.126}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.78, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61726}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61726/devtoo..., se:cdpVersion: 124.0.6367.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (93468d0e9d495f61bf16022f0830bbf7)] -> xpath: //input[@placeholder='Select Unit No.']//following::*[local-name()='svg']]
+Session ID: 93468d0e9d495f61bf16022f0830bbf7 - Failed.
+2024-04-26 12:33:40 INFO  BaseTest:49 - ---INFO--- ---FAIL--- ---FAIL---Exception occured while validating.Failed while inputting text:Plot --478 on element:Enter Unit number.Exceptioninvalid element state
+  (Session info: chrome=124.0.6367.78)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [93468d0e9d495f61bf16022f0830bbf7, clearElement {id=f.7BC096DB842A011D05AC14B6F9B724F0.d.A105DAEA48B0A3E831D8ADC7EA4BBD5F.e.126}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.78, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61726}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61726/devtoo..., se:cdpVersion: 124.0.6367.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (93468d0e9d495f61bf16022f0830bbf7)] -> xpath: //input[@placeholder='Select Unit No.']//following::*[local-name()='svg']]
+Session ID: 93468d0e9d495f61bf16022f0830bbf7 - Failed.
+2024-04-26 12:36:50 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 12:36:53 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 12:36:53 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 12:37:03 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 12:37:04 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 12:37:05 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 12:37:06 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Enter Projectname Searchfeild
+2024-04-26 12:37:08 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:TestPerform 2 on element:Enter Projectname Searchfeild
+2024-04-26 12:37:14 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Clickon viewButton
+2024-04-26 12:37:15 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:ClickOn requsetnocButton
+2024-04-26 12:37:20 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Plot --478 on element:Enter Unit number
+2024-04-26 12:37:34 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:logoutBtcIconClicking.
+2024-04-26 12:37:41 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Logout button
+2024-04-26 12:37:41 INFO  BaseTest:49 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:raiseNOCRequest -----><b>
+2024-04-26 12:37:41 INFO  BaseTest:49 - ---INFO--- ---INFO---Test Case : raiseNOCRequest finished
+2024-04-26 12:39:26 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 12:39:31 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 12:39:31 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 12:39:40 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 12:39:42 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 12:39:43 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 12:39:45 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Enter Projectname Searchfeild
+2024-04-26 12:39:46 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:TestPerform 2 on element:Enter Projectname Searchfeild
+2024-04-26 12:39:53 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Clickon viewButton
+2024-04-26 12:39:55 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:ClickOn requsetnocButton
+2024-04-26 12:40:00 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Plot --478 on element:Enter Unit number
+2024-04-26 12:40:15 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:logoutBtcIconClicking.
+2024-04-26 12:40:21 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Logout button
+2024-04-26 12:40:21 INFO  BaseTest:49 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:raiseNOCRequest -----><b>
+2024-04-26 12:40:21 INFO  BaseTest:49 - ---INFO--- ---INFO---Test Case : raiseNOCRequest finished
+2024-04-26 12:40:45 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 12:40:50 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case approvePMC_RFA
+2024-04-26 12:40:50 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Lender credential<b>
+2024-04-26 12:41:22 INFO  BaseTest:49 - ---INFO--- ---ERROR--- ---FAIL---Exception occured while validating.Exception occurred in element:Sign-In-email, Phone or Skype text field wait.no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Enter Email ID']"}
+  (Session info: chrome=124.0.6367.78)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5d39e15fe6cb886cb3836a943302b8fa, findElement {using=xpath, value=//input[@placeholder='Enter Email ID']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.78, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55186}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55186/devtoo..., se:cdpVersion: 124.0.6367.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5d39e15fe6cb886cb3836a943302b8fa - Failed.
+2024-04-26 12:41:23 INFO  BaseTest:49 - ---INFO--- ---FAIL--- ---FAIL---Exception occured while validating.Exception occurred in element:Sign-In-email, Phone or Skype text field wait.no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Enter Email ID']"}
+  (Session info: chrome=124.0.6367.78)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5d39e15fe6cb886cb3836a943302b8fa, findElement {using=xpath, value=//input[@placeholder='Enter Email ID']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.78, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55186}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55186/devtoo..., se:cdpVersion: 124.0.6367.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5d39e15fe6cb886cb3836a943302b8fa - Failed.
+2024-04-26 12:42:23 INFO  BaseTest:49 - ---INFO--- ---ERROR--- ---FAIL---Exception occured while validating.Failed while inputting text:TU-00715 on element:Sign-In-email, Phone or Skype text field.ExceptionExpected condition failed: waiting for visibility of element located by By.xpath: //input[@placeholder='Enter Email ID'] (tried for 60 second(s) with 500 milliseconds interval)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.78, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55186}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55186/devtoo..., se:cdpVersion: 124.0.6367.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5d39e15fe6cb886cb3836a943302b8fa - Failed.
+2024-04-26 12:42:24 INFO  BaseTest:49 - ---INFO--- ---FAIL--- ---FAIL---Exception occured while validating.Failed while inputting text:TU-00715 on element:Sign-In-email, Phone or Skype text field.ExceptionExpected condition failed: waiting for visibility of element located by By.xpath: //input[@placeholder='Enter Email ID'] (tried for 60 second(s) with 500 milliseconds interval)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.78, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55186}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55186/devtoo..., se:cdpVersion: 124.0.6367.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5d39e15fe6cb886cb3836a943302b8fa - Failed.
+2024-04-26 12:44:33 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 12:44:38 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 12:44:38 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 12:44:51 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 12:44:52 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 12:44:54 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 12:44:55 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Enter Projectname Searchfeild
+2024-04-26 12:44:56 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:TestPerform 2 on element:Enter Projectname Searchfeild
+2024-04-26 12:45:03 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Clickon viewButton
+2024-04-26 12:45:05 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:ClickOn requsetnocButton
+2024-04-26 12:45:10 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Plot --478 on element:Enter Unit number
+2024-04-26 12:45:30 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 12:45:35 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case approvePMC_RFA
+2024-04-26 12:45:35 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Lender credential<b>
+2024-04-26 12:45:46 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:TU-00715 on element:Sign-In-email, Phone or Skype text field
+2024-04-26 12:45:49 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:TruBoard@789 on element:Password text field
+2024-04-26 12:45:50 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 12:45:56 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:logoutBtcIconClicking.
+2024-04-26 12:45:56 INFO  BaseTest:49 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:approvePMC_RFA -----><b>
+2024-04-26 12:45:56 INFO  BaseTest:49 - ---INFO--- ---INFO---Test Case : approvePMC_RFA finished
+2024-04-26 12:47:37 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 12:47:42 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 12:47:42 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 12:47:53 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 12:47:54 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 12:47:56 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 12:47:57 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Enter Projectname Searchfeild
+2024-04-26 12:47:59 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Test Perform on element:Enter Projectname Searchfeild
+2024-04-26 12:48:05 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Clickon viewButton
+2024-04-26 12:48:07 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:ClickOn requsetnocButton
+2024-04-26 12:48:12 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Tower-B-1-666 on element:Enter Unit number
+2024-04-26 12:48:22 INFO  BaseTest:49 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:raiseNOCRequest -----><b>
+2024-04-26 12:48:22 INFO  BaseTest:49 - ---INFO--- ---INFO---Test Case : raiseNOCRequest finished
+2024-04-26 12:48:40 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 12:48:45 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 12:48:45 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 12:48:55 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 12:48:56 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 12:48:58 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 12:48:59 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Enter Projectname Searchfeild
+2024-04-26 12:49:01 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Test Perform on element:Enter Projectname Searchfeild
+2024-04-26 12:49:07 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Clickon viewButton
+2024-04-26 12:49:10 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:ClickOn requsetnocButton
+2024-04-26 12:49:15 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Tower-B-1-666 on element:Enter Unit number
+2024-04-26 12:49:25 INFO  BaseTest:49 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:raiseNOCRequest -----><b>
+2024-04-26 12:49:25 INFO  BaseTest:49 - ---INFO--- ---INFO---Test Case : raiseNOCRequest finished
+2024-04-26 13:54:37 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 13:54:42 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 13:54:42 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 13:54:50 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 13:54:52 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 13:54:53 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 13:54:54 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Enter Projectname Searchfeild
+2024-04-26 13:54:56 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Test Perform on element:Enter Projectname Searchfeild
+2024-04-26 13:55:02 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Clickon viewButton
+2024-04-26 13:55:03 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:ClickOn requsetnocButton
+2024-04-26 13:55:08 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Tower-B-1-666 on element:Enter Unit number
+2024-04-26 13:55:16 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:logoutBtcIconClicking.
+2024-04-26 13:55:22 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Logout button
+2024-04-26 13:55:22 INFO  BaseTest:49 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:raiseNOCRequest -----><b>
+2024-04-26 13:55:22 INFO  BaseTest:49 - ---INFO--- ---INFO---Test Case : raiseNOCRequest finished
+2024-04-26 13:56:45 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 13:56:48 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 13:56:49 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 13:57:03 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 13:57:04 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 13:57:05 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 13:57:07 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Enter Projectname Searchfeild
+2024-04-26 13:57:08 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Test Perform on element:Enter Projectname Searchfeild
+2024-04-26 13:57:14 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Clickon viewButton
+2024-04-26 13:57:16 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:ClickOn requsetnocButton
+2024-04-26 13:57:21 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Tower-B-1-666 on element:Enter Unit number
+2024-04-26 13:57:29 INFO  BaseTest:49 - ---INFO--- ---ERROR--- ---FAIL---Exception occured while validating.Exception occurred in element:Enter REmarks wait.stale element reference: stale element not found in the current frame
+  (Session info: chrome=124.0.6367.78)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5c2c4c3b7e27b1cfb023a8265a99c98c, isElementDisplayed {id=f.C14EE18899CF73BF75BB1B71816BD803.d.1C2D1677DD71817898B0BD875FCF731B.e.119}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.78, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58396}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58396/devtoo..., se:cdpVersion: 124.0.6367.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (5c2c4c3b7e27b1cfb023a8265a99c98c)] -> xpath: //input[@placeholder='Enter Remarks']]
+Session ID: 5c2c4c3b7e27b1cfb023a8265a99c98c - Failed.
+2024-04-26 13:57:29 INFO  BaseTest:49 - ---INFO--- ---FAIL--- ---FAIL---Exception occured while validating.Exception occurred in element:Enter REmarks wait.stale element reference: stale element not found in the current frame
+  (Session info: chrome=124.0.6367.78)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5c2c4c3b7e27b1cfb023a8265a99c98c, isElementDisplayed {id=f.C14EE18899CF73BF75BB1B71816BD803.d.1C2D1677DD71817898B0BD875FCF731B.e.119}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.78, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58396}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58396/devtoo..., se:cdpVersion: 124.0.6367.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (5c2c4c3b7e27b1cfb023a8265a99c98c)] -> xpath: //input[@placeholder='Enter Remarks']]
+Session ID: 5c2c4c3b7e27b1cfb023a8265a99c98c - Failed.
+2024-04-26 13:57:41 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 13:57:45 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 13:57:45 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 13:57:54 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 13:57:55 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 13:57:57 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 13:57:58 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Enter Projectname Searchfeild
+2024-04-26 13:57:59 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Test Perform on element:Enter Projectname Searchfeild
+2024-04-26 13:58:06 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Clickon viewButton
+2024-04-26 13:58:07 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:ClickOn requsetnocButton
+2024-04-26 13:58:12 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Tower-B-1-666 on element:Enter Unit number
+2024-04-26 13:58:18 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Good on element:Enter REmarks
+2024-04-26 13:58:23 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:logoutBtcIconClicking.
+2024-04-26 13:58:29 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Logout button
+2024-04-26 13:58:29 INFO  BaseTest:49 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:raiseNOCRequest -----><b>
+2024-04-26 13:58:29 INFO  BaseTest:49 - ---INFO--- ---INFO---Test Case : raiseNOCRequest finished
+2024-04-26 14:31:30 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 14:31:33 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 14:31:33 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 14:31:42 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 14:31:43 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 14:31:44 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 14:31:50 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Enter Projectname Searchfeild
+2024-04-26 14:31:52 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Test Perform on element:Enter Projectname Searchfeild
+2024-04-26 14:31:58 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Clickon viewButton
+2024-04-26 14:32:00 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:ClickOn requsetnocButton
+2024-04-26 14:32:05 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Tower-B-1-666 on element:Enter Unit number
+2024-04-26 14:32:11 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Good on element:Enter REmarks
+2024-04-26 14:32:15 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:logoutBtcIconClicking.
+2024-04-26 14:32:21 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Logout button
+2024-04-26 14:32:21 INFO  BaseTest:49 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:raiseNOCRequest -----><b>
+2024-04-26 14:32:21 INFO  BaseTest:49 - ---INFO--- ---INFO---Test Case : raiseNOCRequest finished
+2024-04-26 14:33:40 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 14:33:43 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 14:33:43 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 14:33:53 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 14:33:54 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 14:33:55 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 14:34:02 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Enter Projectname Searchfeild
+2024-04-26 14:34:03 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Test Perform on element:Enter Projectname Searchfeild
+2024-04-26 14:34:09 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Clickon viewButton
+2024-04-26 14:34:11 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:ClickOn requsetnocButton
+2024-04-26 14:34:16 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Tower-B-1-666 on element:Enter Unit number
+2024-04-26 14:34:30 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 14:34:34 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 14:34:34 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 14:34:43 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 14:34:45 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 14:34:46 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 14:34:51 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Enter Projectname Searchfeild
+2024-04-26 14:34:53 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Test Perform on element:Enter Projectname Searchfeild
+2024-04-26 14:34:59 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Clickon viewButton
+2024-04-26 14:35:01 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:ClickOn requsetnocButton
+2024-04-26 14:35:05 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Tower-B-1-666 on element:Enter Unit number
+2024-04-26 14:35:11 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Good on element:Enter REmarks
+2024-04-26 14:35:13 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Click on uploadButton
+2024-04-26 14:35:22 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:click On UploadLender.
+2024-04-26 14:35:37 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:logoutBtcIconClicking.
+2024-04-26 14:35:43 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Logout button
+2024-04-26 14:35:43 INFO  BaseTest:49 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:raiseNOCRequest -----><b>
+2024-04-26 14:35:43 INFO  BaseTest:49 - ---INFO--- ---INFO---Test Case : raiseNOCRequest finished
+2024-04-26 14:36:09 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 14:36:12 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 14:36:12 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 14:36:21 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 14:36:22 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 14:36:24 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 14:36:29 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Enter Projectname Searchfeild
+2024-04-26 14:36:31 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Test Perform on element:Enter Projectname Searchfeild
+2024-04-26 14:36:37 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Clickon viewButton
+2024-04-26 14:36:39 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:ClickOn requsetnocButton
+2024-04-26 14:36:44 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Tower-B-1-666 on element:Enter Unit number
+2024-04-26 14:36:50 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Good on element:Enter REmarks
+2024-04-26 14:36:51 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Click on uploadButton
+2024-04-26 14:37:00 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:click On UploadLender.
+2024-04-26 14:37:15 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:logoutBtcIconClicking.
+2024-04-26 14:37:21 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Logout button
+2024-04-26 14:37:21 INFO  BaseTest:49 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:raiseNOCRequest -----><b>
+2024-04-26 14:37:21 INFO  BaseTest:49 - ---INFO--- ---INFO---Test Case : raiseNOCRequest finished
+2024-04-26 14:38:01 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 14:38:04 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 14:38:04 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 14:38:14 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 14:38:16 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 14:38:17 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 14:38:23 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Enter Projectname Searchfeild
+2024-04-26 14:38:24 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Test Perform on element:Enter Projectname Searchfeild
+2024-04-26 14:38:30 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Clickon viewButton
+2024-04-26 14:38:33 INFO  BaseTest:49 - ---INFO--- ---ERROR--- ---FAIL---Exception occured while validating.Failed while clicking on element:ClickOn requsetnocButton.Exceptionelement click intercepted: Element <span class="mantine-1ryt1ht mantine-Button-label">...</span> is not clickable at point (1157, 183). Other element would receive the click: <div class="mantine-Overlay-root mantine-Modal-overlay mantine-gggtb8" style="transition-property: opacity; transition-duration: 200ms; transition-timing-function: ease; opacity: 1;"></div>
+  (Session info: chrome=124.0.6367.78)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [da64951a5d8580d6db37a0a3464818d7, clickElement {id=f.7D7473F68E278C9AA03A031478D8C4E5.d.FFF5247AE920FC565D2AB7B36A4CBF8A.e.66}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.78, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61039}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61039/devtoo..., se:cdpVersion: 124.0.6367.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (da64951a5d8580d6db37a0a3464818d7)] -> xpath: //span[text()='Request NOC']]
+Session ID: da64951a5d8580d6db37a0a3464818d7 - Failed.
+2024-04-26 14:38:33 INFO  BaseTest:49 - ---INFO--- ---FAIL--- ---FAIL---Exception occured while validating.Failed while clicking on element:ClickOn requsetnocButton.Exceptionelement click intercepted: Element <span class="mantine-1ryt1ht mantine-Button-label">...</span> is not clickable at point (1157, 183). Other element would receive the click: <div class="mantine-Overlay-root mantine-Modal-overlay mantine-gggtb8" style="transition-property: opacity; transition-duration: 200ms; transition-timing-function: ease; opacity: 1;"></div>
+  (Session info: chrome=124.0.6367.78)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [da64951a5d8580d6db37a0a3464818d7, clickElement {id=f.7D7473F68E278C9AA03A031478D8C4E5.d.FFF5247AE920FC565D2AB7B36A4CBF8A.e.66}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.78, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61039}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61039/devtoo..., se:cdpVersion: 124.0.6367.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (da64951a5d8580d6db37a0a3464818d7)] -> xpath: //span[text()='Request NOC']]
+Session ID: da64951a5d8580d6db37a0a3464818d7 - Failed.
+2024-04-26 14:41:31 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 14:41:35 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 14:41:35 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 14:41:46 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 14:41:47 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 14:41:49 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 14:41:55 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Enter Projectname Searchfeild
+2024-04-26 14:41:56 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Test Perform on element:Enter Projectname Searchfeild
+2024-04-26 14:42:02 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Clickon viewButton
+2024-04-26 14:42:04 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:ClickOn requsetnocButton
+2024-04-26 14:42:09 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Tower-B-1-666 on element:Enter Unit number
+2024-04-26 14:42:15 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Good on element:Enter REmarks
+2024-04-26 14:42:16 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Click on uploadButton
+2024-04-26 14:42:28 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:click On UploadLender.
+2024-04-26 14:42:43 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:logoutBtcIconClicking.
+2024-04-26 14:42:49 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Logout button
+2024-04-26 14:42:49 INFO  BaseTest:49 - ---INFO--- ---PASS--- <b><------ Test case execution completed and successful for test:raiseNOCRequest -----><b>
+2024-04-26 14:42:49 INFO  BaseTest:49 - ---INFO--- ---INFO---Test Case : raiseNOCRequest finished
+2024-04-26 15:10:32 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 15:10:36 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 15:10:36 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 15:10:47 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 15:10:48 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 15:10:50 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 15:10:56 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Enter Projectname Searchfeild
+2024-04-26 15:10:57 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Test Perform on element:Enter Projectname Searchfeild
+2024-04-26 15:11:04 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Clickon viewButton
+2024-04-26 15:11:07 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:ClickOn requsetnocButton
+2024-04-26 15:11:11 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Tower-B-1-666 on element:Enter Unit number
+2024-04-26 15:11:17 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Good on element:Enter REmarks
+2024-04-26 15:11:19 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Click on uploadButton
+2024-04-26 15:11:31 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:click On UploadLender.
+2024-04-26 15:11:44 INFO  BaseTest:49 - ---INFO--- ---ERROR--- ---FAIL---Exception occured while validating.Failed while clicking on element:click on verifypayment.Exceptionelement click intercepted: Element <span class="mantine-1ryt1ht mantine-Button-label">...</span> is not clickable at point (1156, 516). Other element would receive the click: <img width="150" src="/assets/TruBoardPartners_Logo_Colour-a56a5d8a.svg" alt="Truboard Partners Logo" height="60">
+  (Session info: chrome=124.0.6367.78)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [16d1c8356a125de1664c191c06adf3a0, clickElement {id=f.1D7759325C9B1E8E7C497AE9AE38FDCF.d.F0D8FEC204B9136593D81C130BD605F6.e.133}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.78, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63062}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63062/devtoo..., se:cdpVersion: 124.0.6367.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (16d1c8356a125de1664c191c06adf3a0)] -> xpath: //span[text()='Verify Payment']]
+Session ID: 16d1c8356a125de1664c191c06adf3a0 - Failed.
+2024-04-26 15:11:44 INFO  BaseTest:49 - ---INFO--- ---FAIL--- ---FAIL---Exception occured while validating.Failed while clicking on element:click on verifypayment.Exceptionelement click intercepted: Element <span class="mantine-1ryt1ht mantine-Button-label">...</span> is not clickable at point (1156, 516). Other element would receive the click: <img width="150" src="/assets/TruBoardPartners_Logo_Colour-a56a5d8a.svg" alt="Truboard Partners Logo" height="60">
+  (Session info: chrome=124.0.6367.78)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [16d1c8356a125de1664c191c06adf3a0, clickElement {id=f.1D7759325C9B1E8E7C497AE9AE38FDCF.d.F0D8FEC204B9136593D81C130BD605F6.e.133}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.78, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63062}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63062/devtoo..., se:cdpVersion: 124.0.6367.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (16d1c8356a125de1664c191c06adf3a0)] -> xpath: //span[text()='Verify Payment']]
+Session ID: 16d1c8356a125de1664c191c06adf3a0 - Failed.
+2024-04-26 15:59:48 INFO  BaseTest:49 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2024-04-26 15:59:51 INFO  BaseTest:49 - ---INFO--- ---INFO---Strating test case raiseNOCRequest
+2024-04-26 15:59:51 INFO  BaseTest:49 - ---INFO--- ---INFO--- <b>Going to login into TURBOPARTNERS application using Developer credential<b>
+2024-04-26 16:00:02 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:venkata.c@testperform.com on element:Sign-In-email, Phone or Skype text field
+2024-04-26 16:00:04 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Welcome@truboard28092 on element:Password text field
+2024-04-26 16:00:05 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Login with customer
+2024-04-26 16:00:10 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Enter Projectname Searchfeild
+2024-04-26 16:00:12 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Test Perform on element:Enter Projectname Searchfeild
+2024-04-26 16:00:18 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Clickon viewButton
+2024-04-26 16:00:19 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:ClickOn requsetnocButton
+2024-04-26 16:00:24 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Tower-B-1-666 on element:Enter Unit number
+2024-04-26 16:00:30 INFO  BaseTest:49 - ---INFO--- ---INFO--- Entered text:Good on element:Enter REmarks
+2024-04-26 16:00:31 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:Click on uploadButton
+2024-04-26 16:00:43 INFO  BaseTest:49 - ---INFO--- ---INFO--- Clicked on element:click On UploadLender.
+2024-04-26 16:00:56 INFO  BaseTest:49 - ---INFO--- ---ERROR--- ---FAIL---Exception occured while validating.Failed while clicking on element:click on verifypayment.Exceptionelement click intercepted: Element <span class="mantine-1ryt1ht mantine-Button-label">...</span> is not clickable at point (1156, 516). Other element would receive the click: <img width="150" src="/assets/TruBoardPartners_Logo_Colour-a56a5d8a.svg" alt="Truboard Partners Logo" height="60">
+  (Session info: chrome=124.0.6367.78)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b03424ce1c30ab3e0c177b7b3b172fa3, clickElement {id=f.97C2CBE4FB61FE93C70B722B45B4D0CE.d.4C7D36909D98F6097DA767633759F7EE.e.133}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.78, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49533}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49533/devtoo..., se:cdpVersion: 124.0.6367.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (b03424ce1c30ab3e0c177b7b3b172fa3)] -> xpath: //span[text()='Verify Payment']]
+Session ID: b03424ce1c30ab3e0c177b7b3b172fa3 - Failed.
+2024-04-26 16:00:56 INFO  BaseTest:49 - ---INFO--- ---FAIL--- ---FAIL---Exception occured while validating.Failed while clicking on element:click on verifypayment.Exceptionelement click intercepted: Element <span class="mantine-1ryt1ht mantine-Button-label">...</span> is not clickable at point (1156, 516). Other element would receive the click: <img width="150" src="/assets/TruBoardPartners_Logo_Colour-a56a5d8a.svg" alt="Truboard Partners Logo" height="60">
+  (Session info: chrome=124.0.6367.78)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b03424ce1c30ab3e0c177b7b3b172fa3, clickElement {id=f.97C2CBE4FB61FE93C70B722B45B4D0CE.d.4C7D36909D98F6097DA767633759F7EE.e.133}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.78, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49533}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49533/devtoo..., se:cdpVersion: 124.0.6367.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (b03424ce1c30ab3e0c177b7b3b172fa3)] -> xpath: //span[text()='Verify Payment']]
+Session ID: b03424ce1c30ab3e0c177b7b3b172fa3 - Failed.
